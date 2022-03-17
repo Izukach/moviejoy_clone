@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(68, 64, 111);
+}
+.Containerul {
+  display: flex;
+  justify-content: center;
+  justify-content: 
+}
+
+.navContainer .Containerul li {
+  margin-left: 70px;
+  color: white;
+  padding-top: 20px;
+  list-style: none;
+}
+
+.navContainer {
+  background-color: rgb(33, 30, 66);
+  height: 250px;
+}
+h1 {
+  text-align: center;
+  padding-top: 30px;
+  color: white;
+  font-size: 35px;
+}
+#Navbar {
+  height: 70px;
+  border-radius: 50px;
+  width: 900px;
+  margin-left: 300px;
+  margin-top: 0px;
+  font-size: 25px;
+  padding-left: 30px;
+  border-style: none;
+  outline: none;
+}
+.Firstcontent {
+  margin-top: 75px;
+  margin-left: 50px;
+  color: white;
+}
+.Secondcontent {
+  margin-top: 90px;
+  display: flex;
+}
+#Btn1 {
+  margin-left: 25px;
+  width: 80px;
+}
+#Btn2 {
+  margin-left: 10px;
+  width: 80px;
+}
+img {
+  width: 170px;
+}
+.imgContainer {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+}
+#Imglogo {
+  width: 60px;
+  margin-left: 700px;
+  margin-top: 40px;
+}
+#Imglogo2 {
+  width: 35px;
+  margin-bottom: 80px;
+}
+#btn {
+  margin-left: 40px;
+  width: 52px;
+  border-radius: 5px;
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
